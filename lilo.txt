@@ -1,4 +1,8 @@
 Hola lilo.
 es una gata cariñosa .
 Lilito es una gatica galactica.
+<<<<<<< HEAD
+=======
+Lili tiene un hermanito y una mama.
+>>>>>>> 087dd4df15cfcad48efafaf99773c8febfddfa2b
 Galactica pero meona.
